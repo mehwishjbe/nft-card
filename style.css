@@ -21,3 +21,12 @@ body{
     border-radius: 13px;
     margin: 80px auto 50px auto;
 }
+
+.img-div{
+    padding: 13px 0 10px 13px;
+    align-items: center;
+}
+
+img{
+    border-radius: 10px;
+}
