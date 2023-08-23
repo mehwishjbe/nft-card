@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Fasthand&family=Fuzzy+Bubbles:wght@700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    /* font-family: 'Fasthand', cursive; */
+    /* font-family: 'Fuzzy Bubbles', cursive; */
+    padding: 0;
+    margin: 0;
+    /* font-size: 18px; */
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container{
+    background-color: hsl(216, 50%, 16%) ;
+    width: 250px;
+    height: 420px;
+    border-radius: 13px;
+    margin: 80px auto 50px auto;
+}
+
+.img-div{
+    padding: 13px 0 10px 13px;
+    align-items: center;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.heading{
+    color: hsl(0, 0%, 100%);
+    padding: 10px 0 10px 13px;
+}
+
+.description{
+    color: hsl(215, 51%, 70%);
+    /* font-size: 18px; */
+    padding: 8px 13px 6px 13px;
+}
