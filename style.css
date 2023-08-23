@@ -43,3 +43,37 @@ img{
     /* font-size: 18px; */
     padding: 8px 13px 6px 13px;
 }
+
+.diamond-div{
+    display: flex;
+    padding: 13px;
+    font-size: 12px;
+    text-align: center;
+}
+
+#dia-img{
+    padding-top: 5px;
+}
+
+#amount{
+    padding: 5px;
+    color: hsl(178, 100%, 50%);
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+.timer-div{
+    display: flex;
+    padding-left: 70px;
+}
+
+#clock-img{
+    padding-top: 5px;
+}
+
+#timing{
+    padding: 5px;
+    color: hsl(0, 0%, 100%);
+    font-size: 12px;
+    margin-top: 0px;
+}
