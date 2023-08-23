@@ -83,3 +83,25 @@ img{
     border-top: 0.5px solid hsl(215, 32%, 27%);
     margin: 0 15px 0 15px;
 }
+
+.img-credit{
+    display: flex;
+}
+
+#img-creator{
+    padding: 12px 0 10px 13px;
+}
+#img-border{
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#credits{
+    color: hsl(215, 51%, 70%);
+    font-size: 11px;
+    padding: 17px 0 10px 13px;
+}
+
+span{
+    color: hsl(0, 0%, 100%);
+}
