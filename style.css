@@ -30,3 +30,14 @@ body{
 img{
     border-radius: 10px;
 }
+
+.heading{
+    color: hsl(0, 0%, 100%);
+    padding: 10px 0 10px 13px;
+}
+
+.description{
+    color: hsl(215, 51%, 70%);
+    /* font-size: 18px; */
+    padding: 8px 13px 6px 13px;
+}
