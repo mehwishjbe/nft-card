@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    /* font-family: 'Fasthand', cursive; */
+    /* font-family: 'Fuzzy Bubbles', cursive; */
+    padding: 0;
+    margin: 0;
+    /* font-size: 18px; */
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container{
+    background-color: hsl(216, 50%, 16%) ;
+    width: 250px;
+    height: 420px;
+    border-radius: 13px;
+    margin: 80px auto 50px auto;
+}
