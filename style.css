@@ -16,6 +16,8 @@ body{
     background-color: hsl(217, 54%, 11%);
 }
 
+/* CONTAINER START */
+
 .container{
     background-color: hsl(216, 50%, 16%) ;
     width: 250px;
@@ -23,6 +25,11 @@ body{
     border-radius: 13px;
     margin: 80px auto 50px auto;
 }
+
+/* CONTAINER END */
+
+
+/* CARD IMAGE START */
 
 .img-div{
     padding: 13px 0 10px 13px;
@@ -32,6 +39,11 @@ body{
 img{
     border-radius: 10px;
 }
+
+/* CARD IMAGE END */
+
+
+/* HEADING START */
 
 .heading{
     color: hsl(0, 0%, 100%);
@@ -43,3 +55,85 @@ img{
     /* font-size: 18px; */
     padding: 8px 13px 6px 13px;
 }
+
+/* HEADING END */
+
+
+
+/* ELEMENTS DIV START */
+
+.diamond-div{
+    display: flex;
+    padding: 13px;
+    font-size: 12px;
+    text-align: center;
+}
+
+#dia-img{
+    padding-top: 5px;
+}
+
+#amount{
+    padding: 5px;
+    color: hsl(178, 100%, 50%);
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+.timer-div{
+    display: flex;
+    padding-left: 70px;
+}
+
+#clock-img{
+    padding-top: 5px;
+}
+
+#timing{
+    padding: 5px;
+    color: hsl(0, 0%, 100%);
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+/* ELEMENTS DIV END */
+
+
+
+/* LINE DIV START */
+
+.line{
+    width: 217px;
+    border-top: 0.5px solid hsl(215, 32%, 27%);
+    margin: 0 15px 0 15px;
+}
+
+/* LINE DIV END */
+
+
+/* CREDIT IMAGE START */
+
+.img-credit{
+    display: flex;
+}
+
+#img-creator{
+    padding: 12px 0 10px 13px;
+}
+#img-border{
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#credits{
+    color: hsl(215, 51%, 70%);
+    font-size: 11px;
+    padding: 17px 0 10px 13px;
+}
+
+span{
+    color: hsl(0, 0%, 100%);
+}
+
+/* CREDIT IMAGE END */
+
