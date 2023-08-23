@@ -77,3 +77,9 @@ img{
     font-size: 12px;
     margin-top: 0px;
 }
+
+.line{
+    width: 217px;
+    border-top: 0.5px solid hsl(215, 32%, 27%);
+    margin: 0 15px 0 15px;
+}
