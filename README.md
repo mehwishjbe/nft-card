@@ -12,8 +12,7 @@ You can view the live demo of this project here: [NFT Card Demo](https://mehwish
 - [Description](#description)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
