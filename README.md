@@ -1,11 +1,9 @@
-# nft-card
-https://mehwishjbe.github.io/nft-card/
 
 # NFT Card Preview Component
 
 This project is a simple HTML and CSS implementation of an NFT card preview component. It's based on the Frontend Mentor challenge, [NFT Preview Card Component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
-![NFT Card Preview](./images/website_preview.jpeg)
+![NFT Card Preview](./images/website_preview.JPG)
 
 You can view the live demo of this project here: [NFT Card Demo](https://mehwishjbe.github.io/nft-card/)
 
